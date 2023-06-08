@@ -1,0 +1,22 @@
+{
+  "name": "@constellates/particles",
+  "version": "1.0.0",
+  "description": "A react component library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/constellates/particles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/constellates/particles/issues"
+  },
+  "homepage": "https://github.com/constellates/particles#readme",
+  "dependencies": {
+    "styled-components": "^5.3.11"
+  }
+}
